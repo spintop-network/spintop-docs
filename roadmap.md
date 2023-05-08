@@ -37,39 +37,35 @@
 
 &#x20;  **Q1 2023:**
 
-* [ ] Spintop 2.0 Platform Infrastructuring&#x20;
-* [ ] Community Events & Tournaments
+* [x] Spintop V2 Platform Infrastructuring&#x20;
+* [x] Community Events & Tournaments
 
 &#x20;  **Q2 2023:**
 
-* [ ] Account Abstraction Proof of Concept&#x20;
-* [ ] NFT Wrapper
-* [ ] Spin Wallet
+* [x] Free-to-Rent NFTs Proof of Concept
+* [x] MetaMask Injection
+* [ ] Browser Extension: Spin Wallet
 
-&#x20;  **Q3 2023:**
+&#x20;  **Q3 - Q4 2023:**
 
-* [ ] Spintop 2.0 Closed Beta
-* [ ] Spintop Profiles (Soulbound NFTs)
-* [ ] Private DAO/Asset Sharing
-
-&#x20;  **Q4 2023:**
-
-* [ ] Spintop 2.0 Open Beta
+* [ ] Spintop V2 Launch
+* [ ] API Service Building
 * [ ] Platform Chat Feature
-* [ ] Public DAO/NFT Rentals and Proposals
 * [ ] Gamification & Quest Structures
 
 &#x20;   **Q1 2024:**
 
-* [ ] INOs
-* [ ] NFT Marketplace Closed Beta
+* [ ] Product Optimization & Improvement
 
 &#x20;   **Q2 2024:**
 
-* [ ] NFT Marketplace Launch
+* [ ] INOs
+* [ ] NFT Marketplace Closed Beta
+* [ ] Public & Private Guilds
 
 &#x20;   **Q3 2024:**
 
+* [ ] NFT Marketplace Launch
 * [ ] Spintop Token Exchange (AMM)
 
 \
