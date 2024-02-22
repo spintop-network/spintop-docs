@@ -35,37 +35,42 @@
 * [x] Gamepedia V2
 * [x] GuildMaker Designs & Proof of Concept
 
-&#x20;  **Q1 2023:**
+&#x20;  **2023:**
 
 * [x] Spintop V2 Platform Infrastructuring&#x20;
 * [x] Community Events & Tournaments
-
-&#x20;  **Q2 2023:**
-
 * [x] Free-to-Rent NFTs Proof of Concept
 * [x] MetaMask Injection
-* [ ] Browser Extension: Spin Wallet
 
-&#x20;  **Q3 - Q4 2023:**
+&#x20;  **Q1 2024:**
+
+* [x] V2 Design Implementation for Staking & Launchpad
+* [x] Launcpad Vault 2 Deploymant & Migration
+
+&#x20;  **Q2 2024:**
 
 * [ ] Spintop V2 Launch
-* [ ] API Service Building
-* [ ] Platform Chat Feature
+* [ ] User Profiles
+* [ ] Events and Leaderboard
 * [ ] Gamification & Quest Structures
-
-&#x20;   **Q1 2024:**
-
-* [ ] Product Optimization & Improvement
-
-&#x20;   **Q2 2024:**
-
-* [ ] INOs
-* [ ] NFT Marketplace Closed Beta
-* [ ] Public & Private Guilds
 
 &#x20;   **Q3 2024:**
 
+* [ ] In-game Assets
+* [ ] Token Swap Aggregator
+* [ ] NFT Starter Kits & Bundle Packs
+* [ ] Lootboxes
+
+&#x20;   **Q4 2024:**
+
 * [ ] NFT Marketplace Launch
-* [ ] Spintop Token Exchange (AMM)
+
+&#x20;    **Q1 - Q2 2025:**
+
+* [ ] Spin Wallet & NFT Rental
+
+&#x20;    **Q4 2025:**
+
+* [ ] Factions (Collective Ownership)
 
 \
