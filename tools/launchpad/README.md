@@ -14,9 +14,9 @@ In a world where blockchain launchpads have tiered systems that create high barr
 
 To keep the allocations fair for the users. Spintop will limit contributions per user to the Spinstarter Vault, a minimum and maximum boundary as follows:
 
-_Min: 1,000 $SPIN_
+_Min: 15,000 $SPIN_
 
-_Max: 1,000,000 $SPIN_
+_Max: 5,000,000 $SPIN_
 
 ### Incubator Platform: Continuous post-IGO support
 

@@ -6,11 +6,11 @@
 
 ## Tools
 
-* [🛡 Automated Decentralized Guild Protocol (ADGP)](tools/adgp/README.md)
+* [🛡️ Automated Decentralized Guild Protocol (ADGP)](tools/adgp/README.md)
   * [Guilds & Guild Vaults](tools/adgp/guilds-and-guild-vaults.md)
   * [Guild Governance](tools/adgp/guild-governance.md)
   * [Account Abstraction: SpinWallet](tools/adgp/account-abstraction-spinwallet.md)
-* [🕹 Gamepedia](tools/gamepedia.md)
+* [🕹️ Gamepedia](tools/gamepedia.md)
 * [🏪 Marketplace & Exchange](tools/marketplace/README.md)
   * [AMM](tools/marketplace/amm.md)
 * [🚀 Launchpad](tools/launchpad/README.md)
@@ -19,7 +19,7 @@
 
 ## Tokenomics
 
-* [🌪 SPIN](tokenomics/spin/README.md)
+* [🌪️ SPIN](tokenomics/spin/README.md)
   * [SPIN Total Supply](tokenomics/spin/spin-tokenomics.md)
   * [Initial Circulating Supply](tokenomics/spin/circulating-supply.md)
   * [Mint & Burn Functions](tokenomics/spin/mint-burn-functions.md)
