@@ -7,9 +7,8 @@
 ## Tools & Features <a href="#tools" id="tools"></a>
 
 * [🕹️ Gamepedia](tools/gamepedia.md)
-* [Staking](tools/staking.md)
-* [🏪 Marketplace & Exchange](tools/marketplace/README.md)
-  * [AMM](tools/marketplace/amm.md)
+* [🏦 Staking](tools/staking.md)
+* [🏪 NTF Marketplace](tools/marketplace.md)
 * [🚀 Launchpad](tools/launchpad/README.md)
   * [Launchpad Vault](tools/launchpad/launchpad-vault.md)
   * [IGO process](tools/launchpad/igo-process.md)

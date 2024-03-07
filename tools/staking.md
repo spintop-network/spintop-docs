@@ -1,4 +1,4 @@
-# Staking
+# 🏦 Staking
 
 [https://staking.spintop.network/](https://staking.spintop.network/)
 
