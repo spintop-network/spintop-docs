@@ -2,15 +2,13 @@
 
 <figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
+[https://spintop.network/gamepedia/games](https://spintop.network/gamepedia/games)
+
 "Connecting web3 games and gamers."
-
-
 
 Gamepedia serves as our primary bridge in establishing the connection mentioned above. It houses overviews of nearly 450 web3 games, featuring guides with game-related tips and detailed explanations. It stands out as the most user-friendly infrastructure and design in the web3 gaming ecosystem, allowing everyone to share their comments and opinions on their favorite games.
 
 Perhaps the first and only web3 game library curated by hardcore gamers for web3 gamers, Gamepedia has been visited by half a million web3 gamers from 2021 to the present. With its operational structure and well-thought-out design, Gamepedia not only connects games and gamers but also enables gamers to take direct action and start playing their preferred games immediately.
-
-
 
 **Upcoming Features:**
 
