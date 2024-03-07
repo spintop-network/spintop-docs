@@ -6,10 +6,6 @@
 
 ## Tools & Features <a href="#tools" id="tools"></a>
 
-* [🛡️ Automated Decentralized Guild Protocol (ADGP)](tools/adgp/README.md)
-  * [Guilds & Guild Vaults](tools/adgp/guilds-and-guild-vaults.md)
-  * [Guild Governance](tools/adgp/guild-governance.md)
-  * [Account Abstraction: SpinWallet](tools/adgp/account-abstraction-spinwallet.md)
 * [🕹️ Gamepedia](tools/gamepedia.md)
 * [🏪 Marketplace & Exchange](tools/marketplace/README.md)
   * [AMM](tools/marketplace/amm.md)
