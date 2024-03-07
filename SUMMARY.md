@@ -4,7 +4,7 @@
 * [Team](team.md)
 * [Roadmap](roadmap.md)
 
-## Tools
+## Tools & Features <a href="#tools" id="tools"></a>
 
 * [🛡️ Automated Decentralized Guild Protocol (ADGP)](tools/adgp/README.md)
   * [Guilds & Guild Vaults](tools/adgp/guilds-and-guild-vaults.md)
