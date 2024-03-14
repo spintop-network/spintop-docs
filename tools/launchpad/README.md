@@ -1,10 +1,24 @@
 ---
-description: Tierless GameFi Launcher & Incubator Platform
+description: Tierless Launcher & Incubator Platform
+cover: ../../.gitbook/assets/launchpad.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🚀 Launchpad
-
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Tierless System: A fresh and fair approach
 
@@ -20,4 +34,4 @@ _Max: 5,000,000 $SPIN_
 
 ### Incubator Platform: Continuous post-IGO support
 
-We are building Spintop as the go to one-stop-shop for blockchain gaming. With that in mind, we will be providing our IGO partners with full support after the IGO process on Spinstarter to help with their token utility, via Spindex DeFi opportunities, Gamepedia listing, Guildmaker and Marketplace priority access. Our partners will have direct access to a growing and engaged community of gamers and investors.
+We are building Spintop as the go to one-stop-shop for blockchain gaming. With that in mind, we will be providing our IGO partners with full support after the IGO process on the Launchpad to help with their token utility, via staking & DeFi opportunities, Gamepedia listing, and Marketplace priority access. Our partners will have direct access to a growing and engaged community of gamers and investors.
