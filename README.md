@@ -1,6 +1,6 @@
 # Spintop Intro
 
-<figure><img src=".gitbook/assets/main_wp1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/spintop_intro.png" alt=""><figcaption></figcaption></figure>
 
 What is Spintop?
 
