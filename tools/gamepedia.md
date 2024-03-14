@@ -1,6 +1,9 @@
-# 🕹️ Gamepedia
+---
+cover: ../.gitbook/assets/gamepedia.png
+coverY: 0
+---
 
-<figure><img src="../.gitbook/assets/gamepedia.png" alt=""><figcaption></figcaption></figure>
+# 🕹️ Gamepedia
 
 [https://spintop.network/gamepedia/games](https://spintop.network/gamepedia/games)
 

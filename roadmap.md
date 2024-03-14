@@ -1,7 +1,5 @@
 # Roadmap
 
-<figure><img src=".gitbook/assets/roadmap (2).png" alt=""><figcaption></figcaption></figure>
-
 &#x20;   **October 2021:**
 
 * [x] _Security Audit- Certik (_[_https://www.certik.org/projects/spintop-network_](https://www.certik.org/projects/spintop-network)_)_
