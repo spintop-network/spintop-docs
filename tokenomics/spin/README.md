@@ -1,4 +1,23 @@
-# 🌪 SPIN
+---
+cover: ../../.gitbook/assets/tokenomics.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 🌪️ SPIN
 
 {% hint style="info" %}
 SPIN is the token of the Spintop ecosystem.
@@ -6,15 +25,13 @@ SPIN is the token of the Spintop ecosystem.
 
 **Contract Address**&#x20;
 
-**BNB Chain:** 0x6AA217312960A21aDbde1478DC8cBCf828110A67\
-\
-**Polygon:** 0x35f80a39eeFe33D0dfD2aD2daa6aD6A9D472CEbd
+**BNB Chain:** 0x6AA217312960A21aDbde1478DC8cBCf828110A67
 
 **Ticker:** SPIN
 
 **Decimals:** 18
 
-**Chain:** Binance Smart Chain (BEP20), Polygon (AnyswapV6ERC20)
+**Chain:** Binance Smart Chain (BEP20)
 
 **Token Utility**
 

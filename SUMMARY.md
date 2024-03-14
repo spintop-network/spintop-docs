@@ -17,7 +17,6 @@
 
 * [🌪️ SPIN](tokenomics/spin/README.md)
   * [SPIN Total Supply](tokenomics/spin/spin-tokenomics.md)
-  * [Initial Circulating Supply](tokenomics/spin/circulating-supply.md)
   * [Mint & Burn Functions](tokenomics/spin/mint-burn-functions.md)
 
 ***
