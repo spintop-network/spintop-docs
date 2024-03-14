@@ -1,7 +1,5 @@
 # Spintop Intro
 
-<figure><img src=".gitbook/assets/spintop_intro.png" alt=""><figcaption></figcaption></figure>
-
 What is Spintop?
 
 In a nutshell, we are a social platform that connects web3 games and gamers while providing solutions, technologies, features, and tools to meet all needs within the web3 gaming ecosystem.
