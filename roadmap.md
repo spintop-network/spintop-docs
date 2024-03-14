@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/roadmap (2).png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Roadmap
 
 &#x20;   **October 2021:**
