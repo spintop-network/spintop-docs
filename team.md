@@ -1,6 +1,6 @@
 # Team
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/team.png" alt=""><figcaption></figcaption></figure>
 
 [Sinan Gülfidan - CEO:](https://www.linkedin.com/in/sinangulfidan/) Sinan is a creative engineer and a serial entrepreneur, specializing in system architecture and business management. He has founded multiple successful businesses in various industries, from telecommunication and fintech to e-commerce. He is a long-term crypto enthusiast and a dedicated gamer. \
 \

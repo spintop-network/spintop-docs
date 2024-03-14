@@ -1,6 +1,6 @@
 # Roadmap
 
-<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/roadmap (2).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;   **October 2021:**
 
