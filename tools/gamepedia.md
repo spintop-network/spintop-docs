@@ -1,6 +1,6 @@
 # 🕹️ Gamepedia
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gamepedia.png" alt=""><figcaption></figcaption></figure>
 
 [https://spintop.network/gamepedia/games](https://spintop.network/gamepedia/games)
 
