@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/spintop_intro.png
+coverY: 0
+---
+
 # Spintop Intro
 
 What is Spintop?
