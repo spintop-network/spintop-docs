@@ -13,16 +13,16 @@ This will take 10 days before every IGO. On this round you can dynamically see y
 
 #### Allocation Round
 
-After 10 days of contribution, you can claim your allocation on this round.&#x20;
+After 5 days of contribution, you can claim your allocation on this round.&#x20;
 
 {% hint style="info" %}
-Duration of this round is **8** hours.
+Duration of this round is 24 hours.
 {% endhint %}
 
 #### First Come First Served (FCFS)
 
 {% hint style="info" %}
-Only contributors to the SpinStarter may enter this round.
+Only contributors to the Launchpad Vault may enter this round.
 {% endhint %}
 
 There will be one more round of allocation if the allocation round is not claimed totally. If you made a claim during the Allocation Round, you can check the FCFS Round and get a second claim for your allocation. Progress bar, depending on claim demand.

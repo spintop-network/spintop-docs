@@ -22,11 +22,11 @@ layout:
 
 ### Tierless System: A fresh and fair approach
 
-In a world where blockchain launchpads have tiered systems that create high barriers of entry for the majority of people, we bring a fresh egalitarian approach to remove these hurdles. SpinStarter works as a complete tierless and permissionless system, so by design we lower the barriers of entry for everyone to provide equal pool weight for all contributors.&#x20;
+In a world where blockchain launchpads have tiered systems that create high barriers of entry for the majority of people, we bring a fresh egalitarian approach to remove these hurdles. Spintop Launchpad works as a complete tierless and permissionless system, so by design we lower the barriers of entry for everyone to provide equal pool weight for all contributors.&#x20;
 
 #### Min and Max contribution:
 
-To keep the allocations fair for the users. Spintop will limit contributions per user to the Spinstarter Vault, a minimum and maximum boundary as follows:
+To keep the allocations fair for the users. Spintop will limit contributions per user to the Launchpad Vault, a minimum and maximum boundary as follows:
 
 _Min: 15,000 $SPIN_
 

@@ -4,9 +4,9 @@ description: Vault and Allocation Mechanics
 
 # Launchpad Vault
 
-SpinStarter Vault is the staking ground for SPIN holders to earn IGO allocations. By staking to the contract, our users will benefit from both auto-compounding interests from single-staking SPIN pool rewards and IGO allocations from the corresponding project.
+Launchpad Vault is the staking ground for SPIN holders to earn IGO allocations. By staking to the contract, our users will benefit from both auto-compounding interests from single-staking SPIN pool rewards and IGO allocations from the corresponding project.
 
-Spinstarter system consists of a singular Vault which hosts individual IGO events as modular staking contracts. This way users can enjoy earning IGO allocation rights without taking any action.
+Spintop's Launchpad system consists of a singular Vault which hosts individual IGO events as modular staking contracts. This way users can enjoy earning IGO allocation rights without taking any action.
 
 #### Allocation Mechanics
 
