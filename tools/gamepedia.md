@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/gamepedia.png
+cover: ../.gitbook/assets/gamepedia_2.jpg
 coverY: 0
 layout:
   cover:
