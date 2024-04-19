@@ -8,7 +8,7 @@
 
 * [🕹️ Gamepedia](tools/gamepedia.md)
 * [🏦 Staking](tools/staking.md)
-* [🏪 NTF Marketplace](tools/marketplace.md)
+* [🏪 NFT Marketplace](tools/marketplace.md)
 * [🚀 Launchpad](tools/launchpad/README.md)
   * [Launchpad Vault](tools/launchpad/launchpad-vault.md)
   * [IGO process](tools/launchpad/igo-process.md)
