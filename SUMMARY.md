@@ -27,7 +27,7 @@
 
 ***
 
-* [Discord](https://discord.gg/E7Mt6m7hw5)
+* [Discord](https://discord.gg/spintopnetwork)
 * [Telegram](https://t.me/SpintopNetwork)
 * [Twitter](https://twitter.com/SpintopNetwork)
 * [Medium](https://spintopnetwork.medium.com/)
